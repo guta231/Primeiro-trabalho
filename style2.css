@@ -1,0 +1,11 @@
+body{
+    background-color: red
+}
+button{
+    background-color: blue;
+}
+img{
+    width: 50%;
+    height: 50%;
+    border-radius: 20%;
+}
